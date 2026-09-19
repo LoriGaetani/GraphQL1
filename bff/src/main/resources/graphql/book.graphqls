@@ -1,0 +1,7 @@
+type Book {
+    id: ID!
+    title: String!
+    isbn: String!
+    publishedYear: Int!
+    authors: [Author!]!
+}

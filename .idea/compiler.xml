@@ -12,6 +12,9 @@
       <module name="BookService" options="-parameters" />
       <module name="BookService.main" options="-parameters" />
       <module name="BookService.test" options="-parameters" />
+      <module name="bff" options="-parameters" />
+      <module name="bff.main" options="-parameters" />
+      <module name="bff.test" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo.main" options="-parameters" />
       <module name="demo.test" options="-parameters" />

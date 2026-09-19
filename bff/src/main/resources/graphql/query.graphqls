@@ -1,0 +1,6 @@
+type Query {
+    getAllAuthors: [Author!]!
+    getAuthorById(id: ID!): Author
+    getAllBooks: [Book!]!
+    getBookById(id: ID!): Book
+}
